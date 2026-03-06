@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Sazzad Jelani
 
-<!--
-**Saz-Jelani/Saz-Jelani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CSE Student | Web Developer  
+🚀 Interested in Backend Development
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- PHP
+- ASP.NET
+- Java
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies & Tools
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git
+
+## 📚 Currently Learning
+- Advanced PHP
+- ASP.NET Core MVC
+- Web Application Security
+
+## 📂 Projects
+🔹 Inactive User Reminder System (Laravel)  
+🔹 Web Development Projects  
+🔹 E-commerce Web
+
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Saz-Jelani
+- Email: your-email@example.com
