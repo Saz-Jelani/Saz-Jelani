@@ -8,14 +8,7 @@
 - ASP.NET
 - Java
 - Python
-
-## 🛠 Technologies & Tools
-- HTML
-- CSS
-- JavaScript
-- MySQL
-- Git
-
+- 
 ## 📚 Currently Learning
 - Advanced PHP
 - ASP.NET Core MVC
@@ -29,4 +22,5 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Saz-Jelani
-- Email: your-email@example.com
+- Email: sazzadzelany@gmail.com
+
