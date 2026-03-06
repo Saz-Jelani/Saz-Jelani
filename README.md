@@ -8,7 +8,6 @@
 - ASP.NET
 - Java
 - Python
-- 
 ## 📚 Currently Learning
 - Advanced PHP
 - ASP.NET Core MVC
