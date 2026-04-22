@@ -6,7 +6,7 @@
 ## 🚀 Skills
 - PHP
 - ASP.NET
-- Javascript-Angular(Cli,RxJs,
+- Javascript-Angular(Cli,RxJs)
 - Python
 ## 📚 Currently Learning
 - Advanced PHP
